@@ -1,18 +1,11 @@
 {
-    "id": 57436521,
-    "name": "SampleLevel1",
-    "author": "LevelUploader",
-    "creators": ["Creator1", "Creator2", "Creator3"],
-    "verifier": "Verifier",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
-    "percentToQualify": 56,
-    "password": "Not Copyable",
+    "id": 144932206,
+    "name": "sine mp3s",
+    "author": "sheppysquared",
+    "creators": ["sheppysquared"],
+    "verifier": "sheppysquared",
+    "verification": "https://youtu.be/YhTmrUJpHK4?si=4POBrqz2aiFHOTiS",
+    "percentToQualify": 100,
     "records": [
-        {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": 360
-        }
     ]
 }
