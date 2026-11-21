@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "No password",
     "records": [
+        {
+            "user": "aciti111",
+            "link": "https://youtu.be/pLdXqYa01RA",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
