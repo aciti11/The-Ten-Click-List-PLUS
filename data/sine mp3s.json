@@ -5,7 +5,7 @@
     "creators": ["Shepster"],
     "verifier": "Shepster",
     "verification": "https://www.youtube.com/watch?v=YhTmrUJpHK4",
-    "percentToQualify": 100,
+    "percentToQualify": "100",
     "password": "No password",
     "records": [
     ]
