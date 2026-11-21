@@ -1,0 +1,18 @@
+{
+    "id": 144815844,
+    "name": "click to ten",
+    "author": "Shepster",
+    "creators": ["Shepster"],
+    "verifier": "Shepster",
+    "verification": "https://www.youtube.com/watch?v=SysRWXr6mws",
+    "percentToQualify": 100,
+    "password": "No password",
+    "records": [
+        {
+            "user": "Superthomas69",
+            "link": "https://www.youtube.com/watch?v=BHTOsLpkDEU",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "id": 144731732,
+    "name": "sonic real trust",
+    "author": "Axllgg",
+    "creators": ["Axllgg"],
+    "verifier": "Axllgg",
+    "verification": "https://youtu.be/op_4vZ855-E",
+    "percentToQualify": 100,
+    "password": "No password",
+    "records": [
+        {
+            "user": "Wyspir",
+            "link": "https://youtu.be/7EfUUwRyyhY",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "aciti111",
+            "link": "https://www.youtube.com/watch?v=xdtBvAzB4Lo",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Shepster",
+            "link": "https://www.youtube.com/watch?v=cM_CC-m4zjI",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Superthomas69",
+            "link": "https://www.youtube.com/watch?v=oPdylSy8V9A",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "id": 145336098,
+    "name": "MOGGED",
+    "author": "aciti111",
+    "creators": ["aciti111"],
+    "verifier": "aciti111",
+    "verification": "https://youtu.be/HJO2j90hYgQ",
+    "percentToQualify": 100,
+    "password": "No password",
+    "records": [
+        {
+            "user": "Shepster",
+            "link": "https://www.youtube.com/watch?v=Boaj2pPB69o",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

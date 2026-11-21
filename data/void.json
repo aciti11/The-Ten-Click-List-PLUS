@@ -1,0 +1,18 @@
+{
+    "id": 144980751,
+    "name": "void",
+    "author": "Axllgg",
+    "creators": ["Axllgg"],
+    "verifier": "Shepster",
+    "verification": "https://www.youtube.com/watch?v=2r7ocaIA_qQ",
+    "percentToQualify": 100,
+    "password": "No password",
+    "records": [
+        {
+            "user": "aciti111",
+            "link": "https://youtu.be/bnHbv0Q4jeY",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

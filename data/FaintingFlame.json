@@ -1,0 +1,30 @@
+{
+    "id": 144741786,
+    "name": "Fainting Flame",
+    "author": "Wyspir",
+    "creators": ["Wyspir"],
+    "verifier": "Wyspir",
+    "verification": "https://www.youtube.com/watch?v=X7NPaEvKKZU",
+    "percentToQualify": 100,
+    "password": "No password",
+    "records": [
+        {
+            "user": "aciti111",
+            "link": "https://www.youtube.com/watch?v=Q7FLXahoaKQ",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Shepster",
+            "link": "https://www.youtube.com/watch?v=cM_CC-m4zjI",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Superthomas69",
+            "link": "https://www.youtube.com/watch?v=PQxxTsccaJ0",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

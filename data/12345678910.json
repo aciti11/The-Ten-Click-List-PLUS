@@ -1,0 +1,24 @@
+{
+    "id": 145032926,
+    "name": "12345678910",
+    "author": "k1uey",
+    "creators": ["k1uey"],
+    "verifier": "k1uey",
+    "verification": "https://youtu.be/mo678F_AWi0",
+    "percentToQualify": 100,
+    "password": "No password",
+    "records": [
+        {
+            "user": "aciti111",
+            "link": "https://youtu.be/Ld9NTzbpQdY",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Shepster",
+            "link": "https://www.youtube.com/watch?v=Ut7xZHHYnBg",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

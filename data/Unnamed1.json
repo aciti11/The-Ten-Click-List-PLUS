@@ -1,0 +1,18 @@
+{
+    "id": 145127606,
+    "name": "Unnamed 1",
+    "author": "aciti111",
+    "creators": ["aciti111"],
+    "verifier": "aciti111",
+    "verification": "https://www.youtube.com/watch?v=IL5dhEnjRaw",
+    "percentToQualify": 100,
+    "password": "No password",
+    "records": [
+        {
+            "user": "Shepster",
+            "link": "https://www.youtube.com/watch?v=Gk9CHAMbI5c",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

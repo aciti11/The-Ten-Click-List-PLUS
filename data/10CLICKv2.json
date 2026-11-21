@@ -1,0 +1,42 @@
+{
+    "id": 144726583,
+    "name": "10CLICKv2",
+    "author": "Axllgg",
+    "creators": ["Axllgg"],
+    "verifier": "Axllgg",
+    "verification": "https://youtu.be/FBXfPreTqTw",
+    "percentToQualify": 100,
+    "password": "No password",
+    "records": [
+        {
+            "user": "Wyspir",
+            "link": "https://www.youtube.com/watch?v=x5r1Dq_FqSI",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "aciti111",
+            "link": "https://www.youtube.com/watch?v=0Ub6h4wr0Zw",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Shepster",
+            "link": "https://www.youtube.com/watch?v=cM_CC-m4zjI",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Superthomas69",
+            "link": "https://www.youtube.com/watch?v=81xNKWcUIAw",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "k1uey",
+            "link": "https://youtu.be/SlRe2G7_-aw",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

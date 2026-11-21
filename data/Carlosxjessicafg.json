@@ -1,0 +1,18 @@
+{
+    "id": 144892562,
+    "name": "CarlosxJessica FG",
+    "author": "Superthomas69",
+    "creators": ["Superthomas69"],
+    "verifier": "Superthomas69",
+    "verification": "https://www.youtube.com/watch?v=TPZXrifwP5s",
+    "percentToQualify": 100,
+    "password": "No password",
+    "records": [
+        {
+            "user": "Shepster",
+            "link": "https://www.youtube.com/watch?v=KRPns48ahYA",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

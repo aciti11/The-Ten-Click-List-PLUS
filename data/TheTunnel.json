@@ -1,0 +1,18 @@
+{
+    "id": 145043005,
+    "name": "The Tunnel",
+    "author": "aciti111",
+    "creators": ["aciti111"],
+    "verifier": "aciti111",
+    "verification": "https://youtu.be/ANPNcpqQr_M",
+    "percentToQualify": 100,
+    "password": "No password",
+    "records": [
+        {
+            "user": "Shepster",
+            "link": "https://www.youtube.com/watch?v=Ut7xZHHYnBg",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

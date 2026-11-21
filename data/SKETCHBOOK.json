@@ -1,0 +1,18 @@
+{
+    "id": 146195012,
+    "name": "SKETCHBOOK",
+    "author": "Wyspir",
+    "creators": ["Wyspir"],
+    "verifier": "Wyspir",
+    "verification": "https://youtu.be/YdoxCAOCcdM",
+    "percentToQualify": 100,
+    "password": "No password",
+    "records": [
+        {
+            "user": "Shepster",
+            "link": "https://www.youtube.com/watch?v=BdaMB8lZ4HY&t=12s",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

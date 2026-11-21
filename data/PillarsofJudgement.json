@@ -1,0 +1,42 @@
+{
+    "id": 144739522,
+    "name": "Pillars of Judgement",
+    "author": "Wyspir",
+    "creators": ["Wyspir"],
+    "verifier": "Wyspir",
+    "verification": "https://youtu.be/sXhHbX2SkdE",
+    "percentToQualify": 100,
+    "password": "No password",
+    "records": [
+        {
+            "user": "Axllgg",
+            "link": "https://youtu.be/Wdbn-owzAgY",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "aciti111",
+            "link": "https://www.youtube.com/watch?v=JcMNG3gH6fE",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Shepster",
+            "link": "https://www.youtube.com/watch?v=cM_CC-m4zjI",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Superthomas69",
+            "link": "https://www.youtube.com/watch?v=HhZhuxiK_wo",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "k1uey",
+            "link": "https://youtu.be/pdEQBJwMAeo",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
