@@ -7,6 +7,21 @@
     {
         "role": "admin",
         "name": "aciti11",
-        "link": "https://www.youtube.com/@Speedruns612"
+        "link": "https://www.youtube.com/@speedruns612"
+    },
+    {
+        "role": "helper",
+        "name": "List Helper",
+        "link": "https://ttclplus.idk44098.workers.dev/#/"
+    },
+    {
+        "role": "trial",
+        "name": "Trial List Helper",
+        "link": "https://ttclplus.idk44098.workers.dev/#/"
+    },
+    {
+        "role": "dev",
+        "name": "List Coder",
+        "link": "https://ttclplus.idk44098.workers.dev/#/"
     }
 ]
