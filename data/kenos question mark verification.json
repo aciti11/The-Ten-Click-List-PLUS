@@ -1,0 +1,18 @@
+{
+    "id": 147419659,
+    "name": "kenos question mark verification",
+    "author": "sheppysquared",
+    "creators": ["sheppysquared"],
+    "verifier": "Shepster",
+    "verification": "https://www.youtube.com/watch?v=PiAfNI99O0U",
+    "percentToQualify": "100",
+    "password": "No password",
+    "records": [
+        {
+            "user": "aciti11",
+            "link": "https://youtu.be/mNg3rmUqWMg",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
