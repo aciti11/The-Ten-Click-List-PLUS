@@ -1,0 +1,18 @@
+{
+    "id": 152599870,
+    "name": "Ten Clicks For Alex",
+    "author": "MJDLovely",
+    "creators": ["MJDLovely"],
+    "verifier": "MJDSpeedy",
+    "verification": "https://www.youtube.com/watch?v=iTPoJch-BD0",
+    "percentToQualify": 100,
+    "password": "No password",
+    "records": [
+        {
+            "user": "Shepster",
+            "link": "https://www.youtube.com/watch?v=P0BhDSlgR74",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
